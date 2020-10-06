@@ -1,0 +1,22 @@
+---
+title: "index"
+author: "Kelsey H Jensen"
+date: "9/30/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# An Awesome Website
+
+Name: Kelsey Jensen
+
+https://github.com/kelsey-h-jensen
+
+Name: Thomas Ryan
+
+https://github.com/thomasajryan
+
+![Kelsey working at the soil lab in Bahir Dar, Ethiopia](../assignment-2-khj22/Headshot.png)
